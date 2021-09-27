@@ -1,0 +1,26 @@
+*{
+    padding:0;
+    margin: 0;
+}
+body{
+    overflow: hidden;
+}
+h1{
+    position: absolute;
+    top:50px;
+    left: 40%;
+    right: 40%;
+    z-index: 1;
+}
+#direcciones{
+    position: absolute;
+    top:25%;
+    z-index: 10;
+    left: 40%;
+    right: 40%;
+}
+#fondo{
+    width: 100%;
+    height: 100%;
+    position:absolute;
+}
